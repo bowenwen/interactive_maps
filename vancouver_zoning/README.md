@@ -9,6 +9,15 @@ conda install --quiet --yes --channel conda-forge \
 	'folium=0.10.1'
 ```
 
+
+## Try it out
+
+* [Basic map with zoning polygons](van_map.html)
+* [Choropleth of area](van_map_zoning-area.html)
+* [Colored map of zoning category](van_map_zoning-category.html)
+* [Colored map of zoning category with popup](van_map_zoning-category-popup.html)
+
+
 ## Data Sources:
 
 * https://opendata.vancouver.ca/explore/dataset/zoning-districts-and-labels/export/

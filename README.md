@@ -4,8 +4,14 @@ A collection of interactive maps on various topics. Some of the packages used ar
 
 ## Vancouver Crime
 
-Graphing crime data with datashader
+[Graphing crime data with datashader]
+
 
 ## Vancouver Zoning
 
-Graphing zoning data with folium
+[Graphing zoning data with folium]
+
+
+<!-- Links -->
+[Graphing crime data with datashader]: vancouver_crime/
+[Graphing zoning data with folium]: vancouver_zoning/
