@@ -1,4 +1,4 @@
-# A collection of interactive maps
+# Interactive Maps
 
 A collection of interactive maps on various topics. Some of the packages used are geopandas, datashader, and folium.
 

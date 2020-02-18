@@ -5,8 +5,8 @@
 ```bash
 conda install --quiet --yes --channel conda-forge \
     'pyodbc=4.0.28' \
-	'geopandas=0.6.3' \
-	'folium=0.10.1'
+    'geopandas=0.6.3' \
+    'folium=0.10.1'
 ```
 
 
